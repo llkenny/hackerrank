@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "Lonely Integer"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Lonely Integer",
+        "-p",
+        "test_*.py"
+    ]
+}
